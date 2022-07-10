@@ -17,4 +17,6 @@
   <img align="center" alt="Rodrigo-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rodrigo-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Rodrigo-SASS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  
+  ![Snake animation] (https://github.com/rodrigosimao/rodrigosimao/blob/output/github-contribution-grid-snake.svg)
 </div>
