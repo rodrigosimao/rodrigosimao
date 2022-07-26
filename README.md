@@ -8,8 +8,6 @@ Busco evoluir cada vez mais como desenvolvedor front end para que com os meus co
 
 Dei aulas de informática por mais de 10 anos e tive um empreendimento no ramo educacional, ajudar pessoas e ensinar me da muito prazer e satisfação.
 
-Atualmente faço parte do Union Group, um grupo formado por devs e designers de todas as partes do Brasil com o objetivo de ganhar experiência de trabalho em equipe através de projetos voluntários.
-
 ##
 
 <h3>Contatos</h3>  
