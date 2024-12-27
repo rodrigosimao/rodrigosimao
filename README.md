@@ -2,11 +2,15 @@
   Oi, eu sou Rodrigo Simão, desenvolvedor Front-end!
 </h1>
 
-Olá sou Rodrigo Simão e comecei a trabalhar com tecnologia aos 14 anos em uma escola de informática e agora estou em busca de novos desafios na área de desenvolvimento, no momento, estou estudando tecnologias de front-end com o objetivo de me tornar um desenvolvedor front-end.
+Olá me chamo Rodrigo Simão, tenho 43 anos e após uma trajetória sólida como Analista de Suporte, estou embarcando em uma nova jornada profissional. Minha decisão de transição de carreira é motivada por meu desejo de encontrar novos desafios e métodos de trabalho, para assim poder construir uma trajetória significativa e vitoriosa como programador/desenvolvedor Front End.
 
-Busco evoluir cada vez mais como desenvolvedor front end para que com os meus conhecimentos eu possa desenvolver projetos e aplicações que tenham impacto positivo na vida das pessoas.
+🎯 Sou formado em Analise e Desenvolvimento de Sistemas e busco o aprendizado contínuo para desenvolver novas habilidades, seja por meio de cursos, workshops ou experiências práticas. 
 
-Dei aulas de informática por mais de 10 anos e tive um empreendimento no ramo educacional, ajudar pessoas e ensinar me da muito prazer e satisfação.
+A transição de carreira tem sido uma oportunidade de de abraçar novos desafios, aprender rapidamente e me adaptar as mudanças.
+
+Minha experiência anterior me ensinou a importância de trabalhar em equipe e compreender as necessidades das pessoas e clientes. Sou comunicativo, tenho facilidade em trabalhar em equipe, organizado e curioso, habilidades que levo para qualquer oportunidade. 
+
+📚 Atualmente, após terminar a graduação, estou me dedicando aos cursos de aperfeiçoamento em Front End como DevClub e Origamid para me preparar para este novo capitulo em minha vida profissional.
 
 ##
 
