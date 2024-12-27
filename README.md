@@ -2,7 +2,7 @@
   Oi, eu sou Rodrigo Simão, desenvolvedor Front-end!
 </h1>
 
-Olá me chamo Rodrigo Simão, tenho 43 anos e após uma trajetória sólida como Analista de Suporte, estou embarcando em uma nova jornada profissional. Minha decisão de transição de carreira é motivada por meu desejo de encontrar novos desafios e métodos de trabalho, para assim poder construir uma trajetória significativa e vitoriosa como programador/desenvolvedor Front End.
+💼 Olá me chamo Rodrigo Simão, tenho 43 anos e após uma trajetória sólida como Analista de Suporte, estou embarcando em uma nova jornada profissional. Minha decisão de transição de carreira é motivada por meu desejo de encontrar novos desafios e métodos de trabalho, para assim poder construir uma trajetória significativa e vitoriosa como programador/desenvolvedor Front End.
 
 🎯 Sou formado em Analise e Desenvolvimento de Sistemas e busco o aprendizado contínuo para desenvolver novas habilidades, seja por meio de cursos, workshops ou experiências práticas. 
 
